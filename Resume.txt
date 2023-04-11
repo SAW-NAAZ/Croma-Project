@@ -1,8 +1,22 @@
 
-Name: 
-Age:
-Salary:
+Name: XYZ 
+Age: 44
+Salary: 20
 DOB:
 Address:
-Contact:
+
+Name: XYZ 
+Age: 44
+Salary: 20
+DOB:
+Address:
+
+Name: XYZ 
+Age: 44
+Salary: 20
+DOB:
+Address:
+
+
+
 
